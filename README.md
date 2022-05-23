@@ -3,6 +3,7 @@
 ## OVERVIEW
 The purpose of this project is to help Dana create an interactive webpage that allows readers parse through data around UFO sightings. The webpage will show an in-depth analysis of UFO sightings by letting users filter for multiple criteria regarding UFO sightings at once. We will use multiple filter criteria such as state, city, country, shape, etc. to help users filter through and find results.
 
+![Screen Shot 2022-05-22 at 8 35 40 PM](https://user-images.githubusercontent.com/100884241/169738547-8efc3137-dbe9-4142-b397-3550936b88ad.png)
 ![UFO Sightings](https://user-images.githubusercontent.com/100884241/169737233-47f02eed-ba4d-445d-9ad7-074ef5f42346.png)
 
 ## RESULTS
