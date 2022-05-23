@@ -15,6 +15,6 @@ The webpage built allows the user to filter for different UFO sightings by letti
 One drawback of this design is the likelihood of case sensitivity - which may cut out some results that would otherwise have been relevant to the user of the webpage. A modification of the search term by using lowercase letters will likely not return any values, which is misleading as the data for the state or city could exist on the webpage. 
 
 ### RECOMMENDATIONS FOR DEVELOPMENT
-	•	One recommendation for further development might be to insert a grayed out message (that doesn’t hinder the search function) to inform users that the items are case-sensitive. This will instruct and direct them on correctly and successfully using the correct case for searches.
+•	One recommendation for further development might be to insert a grayed out message (that doesn’t hinder the search function) to inform users that the items are case-sensitive. This will instruct and direct them on correctly and successfully using the correct case for searches.
   
-  	•	A second recommendation is to modify the code to allow for lower/upper-case variants of the same values in the search field. This will return more relevant results, and the user is likely to find the answer they seek sooner.
+  •	A second recommendation is to modify the code to allow for lower/upper-case variants of the same values in the search field. This will return more relevant results, and the user is likely to find the answer they seek sooner.
